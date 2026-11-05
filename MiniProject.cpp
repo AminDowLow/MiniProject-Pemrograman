@@ -54,6 +54,3 @@ bool cekJawaban(int n, char jawab) {
         return false;
     }
 }
- 
-int main() {
-    int skor = 0;
