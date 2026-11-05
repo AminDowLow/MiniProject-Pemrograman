@@ -9,6 +9,7 @@ Kelompok      : Empat (4)
 Kelas	        : ILKOM A
 
 Ketua	        :
+
 Anggota       :
 1. Ratu Fiona Tsaqifah (2617051028)
 2. Vadinda Sabrina Salwa (2617051036)
