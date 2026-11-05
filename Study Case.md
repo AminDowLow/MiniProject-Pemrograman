@@ -14,8 +14,9 @@ Anggota       :
 1. Ratu Fiona Tsaqifah (2617051028)
 2. Vadinda Sabrina Salwa (2617051036)
 3. Adzkia Putri Ramadhani (2617051014)
-4.
-5.
+4. Muhammad Aminnawloh (2617051044)
+5. Nino Amadino (2617051027)
+6. 
 
 
 Rani adalah seorang pengembang aplikasi pembelajaran untuk siswa SMK. Ia ingin membuat fitur koreksi otomatis untuk kuis Informatika yang berisi 5 soal pilihan ganda (opsi A sampai E).
