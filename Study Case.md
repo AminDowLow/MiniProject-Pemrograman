@@ -12,3 +12,14 @@ nilai = jumlah_benar * 100 / 5
 
 Predikat ditentukan sebagai berikut:
 
+Nilai >= 80: Sangat Baik
+Nilai >= 60: Baik
+Nilai < 60: Perlu Belajar Lagi
+Format Masukan
+
+Lima baris, masing-masing berisi satu huruf (A sampai E) yang merupakan jawaban siswa untuk soal ke-1 sampai ke-5. Huruf kapital dan huruf kecil dianggap sama.
+
+Batasan
+Jumlah soal tepat 5.
+Setiap jawaban adalah satu huruf antara A sampai E (huruf besar atau kecil).
+Format Keluaran
