@@ -53,3 +53,12 @@ Benar : <jumlah benar> dari 5
 Nilai : <nilai>
 Predikat: <predikat>
 Contoh Masukan 0
+Benar : 5 dari 5
+Nilai : 100
+Predikat: Sangat Baik
+Contoh Masukan 1
+B
+A
+B
+c
+A
