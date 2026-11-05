@@ -8,7 +8,7 @@ Mata Kuliah   : Praktikum Pemrograman / Pemrograman Dasar (C++)
 Kelompok      : Empat (4)
 Kelas	        : ILKOM A
 
-Ketua	        :
+Ketua	        : Nino Amadino (2617051027)
 
 Anggota       :
 1. Ratu Fiona Tsaqifah (2617051028)
@@ -16,7 +16,7 @@ Anggota       :
 3. Adzkia Putri Ramadhani (2617051014)
 4. Muhammad Aminnawloh (2617051044)
 5. Nino Amadino (2617051027)
-6. 
+6. Muhammad Arief (2617051022)
 
 
 Rani adalah seorang pengembang aplikasi pembelajaran untuk siswa SMK. Ia ingin membuat fitur koreksi otomatis untuk kuis Informatika yang berisi 5 soal pilihan ganda (opsi A sampai E).
