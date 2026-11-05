@@ -43,3 +43,17 @@ char bacaJawaban() {
         cout << "Input tidak valid!\n";
     }
 }
+
+// FUNCTION: cek jawaban (PERCABANGAN)
+bool cekJawaban(int n, char jawab) {
+    if (jawab == kunci[n]) {
+        cout << ">>> BENAR! <<<" << endl;
+        return true;
+    } else {
+        cout << ">>> SALAH! Kunci: " << kunci[n] << " <<<" << endl;
+        return false;
+    }
+}
+ 
+int main() {
+    int skor = 0;
