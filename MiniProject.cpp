@@ -32,3 +32,14 @@ void tampilkanSoal(int n) {
         cout << "   " << char('A' + i) << ". " << opsi[n][i] << endl;
     }
 }
+// FUNCTION: baca jawaban valid A-E (PERULANGAN validasi)
+char bacaJawaban() {
+    char j;
+    while (true) {
+        cout << "Jawaban kamu (A-E): ";
+        cin >> j;
+        j = toupper(j);
+        if (j >= 'A' && j <= 'E') return j;
+        cout << "Input tidak valid!\n";
+    }
+}
