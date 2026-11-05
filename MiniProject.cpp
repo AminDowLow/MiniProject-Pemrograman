@@ -22,3 +22,13 @@ string opsi[JUMLAH_SOAL][JUMLAH_OPSI] = {
     {"Phishing", "Encryption", "Two-Factor Authentication (2FA)", "Firewall", "Malware"},
     {"RAM", "Hard Disk", "Motherboard", "CPU", "Power Supply"}
 };
+
+char kunci[JUMLAH_SOAL] = {'B', 'C', 'B', 'C', 'D'};
+ 
+// FUNCTION: tampilkan satu soal (PERULANGAN untuk opsi)
+void tampilkanSoal(int n) {
+    cout << "\n" << (n + 1) << ". " << soal[n] << endl;
+    for (int i = 0; i < JUMLAH_OPSI; i++) {
+        cout << "   " << char('A' + i) << ". " << opsi[n][i] << endl;
+    }
+}
