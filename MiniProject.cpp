@@ -54,3 +54,12 @@ bool cekJawaban(int n, char jawab) {
         return false;
     }
 }
+int main() {
+    int skor = 0;
+    cout << "===== KUIS INFORMATIKA =====\n";
+ 
+    for (int i = 0; i < JUMLAH_SOAL; i++) {   // PERULANGAN utama
+        tampilkanSoal(i);
+        char jawab = bacaJawaban();
+        if (cekJawaban(i, jawab)) skor++;
+    }
