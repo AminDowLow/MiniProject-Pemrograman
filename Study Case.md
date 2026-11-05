@@ -61,3 +61,12 @@ A
 B
 c
 A
+Contoh Keluaran 1
+Soal 1: BENAR
+Soal 2: SALAH (Kunci: C)
+Soal 3: BENAR
+Soal 4: BENAR
+Soal 5: SALAH (Kunci: D)
+Benar : 3 dari 5
+Nilai : 60
+Predikat: Baik
