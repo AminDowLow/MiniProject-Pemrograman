@@ -13,7 +13,7 @@ Ketua	        :
 Anggota       :
 1. Ratu Fiona Tsaqifah (2617051028)
 2. Vadinda Sabrina Salwa (2617051036)
-3.
+3. Adzkia Putri Ramadhani (2617051014)
 4.
 5.
 
