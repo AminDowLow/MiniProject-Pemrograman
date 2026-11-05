@@ -1,4 +1,4 @@
-=== Study Case ===
+ Study Case
 
 Rani adalah seorang pengembang aplikasi pembelajaran untuk siswa SMK. Ia ingin membuat fitur koreksi otomatis untuk kuis Informatika yang berisi 5 soal pilihan ganda (opsi A sampai E).
 
