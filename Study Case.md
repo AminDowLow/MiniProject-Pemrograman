@@ -23,3 +23,14 @@ Batasan
 Jumlah soal tepat 5.
 Setiap jawaban adalah satu huruf antara A sampai E (huruf besar atau kecil).
 Format Keluaran
+Cetak 5 baris hasil koreksi, satu per soal:
+
+Jika benar: Soal <nomor>: BENAR
+Jika salah: Soal <nomor>: SALAH (Kunci: <huruf>)
+
+Kemudian cetak 3 baris berikut:
+
+Benar : <jumlah benar> dari 5
+Nilai : <nilai>
+Predikat: <predikat>
+Contoh Masukan 0
