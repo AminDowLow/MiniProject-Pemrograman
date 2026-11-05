@@ -63,3 +63,14 @@ int main() {
         char jawab = bacaJawaban();
         if (cekJawaban(i, jawab)) skor++;
     }
+int nilai = skor * 100 / JUMLAH_SOAL;
+    cout << "\n===== HASIL =====\n";
+    cout << "Benar : " << skor << " dari " << JUMLAH_SOAL << endl;
+    cout << "Nilai : " << nilai << endl;
+ 
+    if (nilai >= 80)      cout << "Predikat: Sangat Baik\n";
+    else if (nilai >= 60) cout << "Predikat: Baik\n";
+    else                  cout << "Predikat: Perlu Belajar Lagi\n";
+ 
+    return 0;
+}
