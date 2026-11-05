@@ -1,4 +1,21 @@
- Study Case
+# STUDI KASUS
+
+STUDI KASUS MINI PROJECT
+
+Nama Proyek   : Kuis/Latihan Soal Pilihan Ganda (Mini Quiz) 
+
+Mata Kuliah   : Praktikum Pemrograman / Pemrograman Dasar (C++)
+Kelompok      : Empat (4)
+Kelas	        : ILKOM A
+
+Ketua	        :
+Anggota       :
+1. Ratu Fiona Tsaqifah (2617051028)
+2.
+3.
+4.
+5.
+
 
 Rani adalah seorang pengembang aplikasi pembelajaran untuk siswa SMK. Ia ingin membuat fitur koreksi otomatis untuk kuis Informatika yang berisi 5 soal pilihan ganda (opsi A sampai E).
 
